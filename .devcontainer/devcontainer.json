@@ -1,0 +1,12 @@
+{
+    "name": "p2-2.uthreadsync",
+    "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-24.04",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+            "ms-vscode.cpptools",
+            "ms-vscode.makefile-tools"
+            ]
+        }
+    }
+}
